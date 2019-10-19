@@ -26,6 +26,23 @@ public class operadores {
         System.out.println("el residuo es: " + residuo);
         
         // operadores de incremento o decremento
+        int nota=15;
+        nota = nota +1; 
+        System.out.println("2. OPERADORES DE INCRMENTO Y DECREMENTO");
+        System.out.println("incremento nota = nota + 1 :" + nota);
+        nota +=1;
+        System.out.println("incremento de nota +-1 : " + nota);
+        nota++;
+        System.out.println("incremento como nota++ : " + nota);
+        
+        nota = nota - 1;
+        System.out.println("3.decremento de la variable nota");
+        System.out.println("decremento como nota =nota - 1: "+ nota);
+        nota -= 1;
+        System.out.println("decremento como nota -= 1: "+nota);
+        nota--;
+        System.out.println("decremento como nota--1 "+ nota);
+        
         
     }
     
