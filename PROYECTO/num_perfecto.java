@@ -9,6 +9,6 @@ package ejercicios_proyecto;
  *
  * @author diegoleivaespin
  */
-public class num_perfect {
+public class num_perfecto {
     
 }
